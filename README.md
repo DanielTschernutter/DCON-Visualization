@@ -22,5 +22,5 @@ pip install .
 
 3. The visualization tool can then be opened via
     ```
-    run DCON_Visualization
+    run_DCON_Visualization
     ```
