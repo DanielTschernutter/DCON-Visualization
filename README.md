@@ -2,7 +2,7 @@
 #### A Globally Convergent Algorithm for Neural Network Parameter Optimization Based on Difference-of-Convex Functions
 
 This package uses the implemantation of the DCON algorithm as introduced in
-> D. Tschernutter, M. Kraus, S. Feuerriegel (2022). A Globally Convergent Algorithm for Neural Network Parameter Optimization Based on Difference-of-Convex Functions. Working Paper
+> D. Tschernutter, M. Kraus, S. Feuerriegel (2024). A Globally Convergent Algorithm for Neural Network Parameter Optimization Based on Difference-of-Convex Functions. Transactions on Machine Learning Research (TMLR)
 
 The package can be downloaded from
 https://github.com/DanielTschernutter/DCON
